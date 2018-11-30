@@ -1,0 +1,25 @@
+{
+  "name": "util.common",
+  "version": "0.0.0",
+  "description": "common utilities for Javascript",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyunwoo/util.common.git"
+  },
+  "keywords": [
+    "util",
+    "common",
+    "textformat",
+    "file"
+  ],
+  "author": "h.hyunwoo@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hyunwoo/util.common/issues"
+  },
+  "homepage": "https://github.com/hyunwoo/util.common#readme"
+}
